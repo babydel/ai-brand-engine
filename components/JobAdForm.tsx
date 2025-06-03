@@ -1,0 +1,1 @@
+// JobAdForm component placeholder

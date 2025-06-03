@@ -1,0 +1,1 @@
+// Candidate Summary Page placeholder
